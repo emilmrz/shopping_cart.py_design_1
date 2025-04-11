@@ -16,10 +16,6 @@ This project simulates a course selection interface where users can choose from 
 
 ---
 
-## 🖼 Interface Preview
-
-> ![screenshot](screenshot.png)  
-> _A sample screenshot of the GUI interface (optional)_
 
 ---
 
@@ -32,4 +28,5 @@ This project simulates a course selection interface where users can choose from 
 ---
 
 ## 📁 Folder Structure
+  shopping_cart.py
 
